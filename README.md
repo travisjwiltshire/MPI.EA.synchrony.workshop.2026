@@ -18,7 +18,7 @@ To rebuild the slides, run `quarto render MPI_workshop_2026.qmd`.
 
 ## How to cite
 
-Pouw, W., & Wiltshire, T. J. (2026). *Brains, bodies, and beats: Making sense of (neuro)physiological synchrony in collective music experiences* \[Workshop slides\]. Max Planck Institute for Empirical Aesthetics, Frankfurt, Germany. https://github.com/travisjwiltshire/MPI.EA.synchrony.workshop.2026
+Pouw, W., & Wiltshire, T. J. (2026, December 2). *Brains, bodies, and beats: Making sense of (neuro)physiological synchrony in collective music experiences* \[Workshop presentation]. Max Planck Institute for Empirical Aesthetics, Frankfurt, Germany. https://github.com/travisjwiltshire/MPI.EA.synchrony.workshop.2026
 
 ## Attribution and reuse
 

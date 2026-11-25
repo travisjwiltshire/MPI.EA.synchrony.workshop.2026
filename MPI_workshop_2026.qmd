@@ -367,7 +367,7 @@ Wiltshire, T. J., Steffensen, S. V., & Fiore, S. M. (2019). Multiscale movement 
 
 ## How to cite and reuse this workshop {.smaller}
 
-Pouw, W., & Wiltshire, T. J. (2026). *Brains, bodies, and beats: Making sense of (neuro)physiological synchrony in collective music experiences* \[Workshop slides\]. Max Planck Institute for Empirical Aesthetics, Frankfurt, Germany. https://github.com/travisjwiltshire/MPI.EA.synchrony.workshop.2026
+Pouw, W., & Wiltshire, T. J. (2026, December 2). *Brains, bodies, and beats: Making sense of (neuro)physiological synchrony in collective music experiences* \[Workshop presentation]. Max Planck Institute for Empirical Aesthetics, Frankfurt, Germany. https://github.com/travisjwiltshire/MPI.EA.synchrony.workshop.2026
 
 - Live slides: <https://travisjwiltshire.github.io/MPI.EA.synchrony.workshop.2026/>
 - Please attribute the authors when reusing or adapting these slides, and link back to the source above
